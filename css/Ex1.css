@@ -1,0 +1,19 @@
+h1 {
+    font-size: 70px;
+}
+h1, h2{
+    color: aqua;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+#id_btn_1{
+    background-color: blue;
+}
+
+.cl_sec_btns{
+    background-color: green ;
+}
