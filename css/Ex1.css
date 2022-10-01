@@ -17,3 +17,10 @@ body{
 .cl_sec_btns{
     background-color: green ;
 }
+
+/* Mobile CSS Only */
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+}
